@@ -1,4 +1,4 @@
-# Netbook-Community-Project
+# Netbook-Project
 
 Link 👉 https://netbook-project-lubarreiro.netlify.app/
 
